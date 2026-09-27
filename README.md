@@ -21,17 +21,16 @@ Then open [http://localhost:8000](http://localhost:8000).
 - Original, locally hosted editorial imagery
 - Mobile navigation and scroll-reveal effects
 - Accessible FAQ accordions and semantic page structure
-- Contact form that composes an email to `support@accountingbuzz.com`
+- Contact form that composes an email to `support.acctbuzzpro@gmail.com`
 - SEO, Open Graph, social-share, and ProfessionalService structured data
 - Full-logo social assets for Instagram and Facebook in `assets/social/`
 
 ## Before launch
 
 1. Confirm the exact tax services and jurisdictions offered.
-2. Replace the dummy email when a live mailbox is ready.
-3. Connect a real form service if you want submissions stored instead of opening the visitor's email app.
-4. Add a privacy policy and any required business/licensing disclosures.
-5. Add a custom domain and analytics only after consent/privacy requirements are settled.
+2. Connect a real form service if you want submissions stored instead of opening the visitor's email app.
+3. Add a privacy policy and any required business/licensing disclosures.
+4. Add a custom domain and analytics only after consent/privacy requirements are settled.
 
 ## Hosting recommendation
 

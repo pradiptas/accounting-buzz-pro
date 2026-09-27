@@ -66,5 +66,5 @@ contactForm?.addEventListener('submit', (event) => {
   );
 
   formStatus.textContent = 'Your email app should open with the details filled in.';
-  window.location.href = `mailto:support@accountingbuzz.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:support.acctbuzzpro@gmail.com?subject=${subject}&body=${body}`;
 });
