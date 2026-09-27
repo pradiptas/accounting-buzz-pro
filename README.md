@@ -22,7 +22,8 @@ Then open [http://localhost:8000](http://localhost:8000).
 - Mobile navigation and scroll-reveal effects
 - Accessible FAQ accordions and semantic page structure
 - Contact form that composes an email to `support@accountingbuzz.com`
-- SEO metadata and ProfessionalService structured data
+- SEO, Open Graph, social-share, and ProfessionalService structured data
+- Full-logo social assets for Instagram and Facebook in `assets/social/`
 
 ## Before launch
 
