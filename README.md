@@ -15,8 +15,9 @@ Then open [http://localhost:8000](http://localhost:8000).
 ## Included
 
 - Responsive one-page marketing site
-- Bookkeeping, AP/AR, payroll, remittance and T4 support, credit-card and bank reconciliation, personal and corporate tax, CRA correspondence, sales-tax compliance, cleanup work, business registration, website setup and maintenance, advisory, and CPA-ready year-end content
-- Industry-specific positioning for technology, real estate, healthcare, manufacturing, retail/e-commerce, professional services, food service/hospitality, construction/trades, and personal services
+- Four focused core services: daily bookkeeping, AP/AR, credit-card and bank reconciliation, and personal/business tax preparation
+- Clear audience positioning for individuals, families, sole proprietors, and small to medium-sized businesses
+- Business registration, bookkeeping/tax setup, and website setup/maintenance callout
 - Domestic service positioning with cross-border tax explicitly excluded
 - Original, locally hosted editorial imagery
 - Mobile navigation and scroll-reveal effects
